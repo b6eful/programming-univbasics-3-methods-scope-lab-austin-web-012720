@@ -12,3 +12,6 @@ def link
   linkstat = "It's Dangerous To Go Alone! Take This."
   puts linkstat
 end
+
+def any_phrase(phrase)
+  phrase = 
